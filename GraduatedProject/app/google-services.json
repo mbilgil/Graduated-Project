@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "268973747189",
+    "firebase_url": "https://gozumsun-f902f.firebaseio.com",
+    "project_id": "gozumsun-f902f",
+    "storage_bucket": "gozumsun-f902f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268973747189:android:b3dda76a6fdcba86",
+        "android_client_info": {
+          "package_name": "com.example.mbilgil.graduatedproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268973747189-rjqh1ep0dr1rvklo7nui1hrre1moimgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbilgil.graduatedproject",
+            "certificate_hash": "d6b57a488618db0f922e8e33f7aecac20251899c"
+          }
+        },
+        {
+          "client_id": "268973747189-r4hchtm623b0kn4p4m83si299vumrgmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbilgil.graduatedproject",
+            "certificate_hash": "89de12ea08a446958bf90c081d36f4531af2065e"
+          }
+        },
+        {
+          "client_id": "268973747189-8gst1spu0uqfflsmhmtqlgi3s5o51tf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgtrH2_fYgotVHXnOYKhGk-5bqPCYBzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268973747189-8gst1spu0uqfflsmhmtqlgi3s5o51tf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
